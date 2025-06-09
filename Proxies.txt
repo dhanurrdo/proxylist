@@ -2692,7 +2692,7 @@
 43.218.77.16,443,ID,Amazon.com, Inc.
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
-103.133.60.12,8080,ID,103.133.60.12 (PT Tunas Link Indonesia)
+36.67.88.77,4153,ID,X1
 202.162.195.54,8080,ID,xc336.mdn.nusa.net.id (PT. Media Antar Nusa)
 202.145.10.241,8080,ID,202.145.10.241 (PT Jala Lintas Media)
 103.189.96.168,8070,ID,host-103-189-96-168.ldp.net.id (Lintas Data Prima, PT)
